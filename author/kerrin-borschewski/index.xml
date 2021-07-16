@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kerrin Borschewski | Stefan Jünger</title>
+    <link>/author/kerrin-borschewski/</link>
+      <atom:link href="/author/kerrin-borschewski/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kerrin Borschewski</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 24 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu89af2c7755ddb4ab1d521ed5c464ac1c_29162_512x512_fill_lanczos_center_2.png</url>
+      <title>Kerrin Borschewski</title>
+      <link>/author/kerrin-borschewski/</link>
+    </image>
+    
+    <item>
+      <title>Documenting Georeferenced Social Science Survey Data:  Limits of Metadata Standards and Possible Solutions</title>
+      <link>/publication/2019-09-24_documenting_georefer/</link>
+      <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-09-24_documenting_georefer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Documenting Georeferenced Social Science Survey Data: Limits and Possible Solutions</title>
+      <link>/talk/2019-07-18_documenting_georefer/</link>
+      <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/talk/2019-07-18_documenting_georefer/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog_posts | Stefan Jünger</title>
+    <link>/blog_posts/</link>
+      <atom:link href="/blog_posts/index.xml" rel="self" type="application/rss+xml" />
+    <description>Blog_posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 12 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu89af2c7755ddb4ab1d521ed5c464ac1c_29162_512x512_fill_lanczos_center_2.png</url>
+      <title>Blog_posts</title>
+      <link>/blog_posts/</link>
+    </image>
+    
+    <item>
+      <title>Land use disadvantages in Germany: A matter of ethnic income inequalities?</title>
+      <link>/blog_posts/2021-07-12_land_use_disadvantag/</link>
+      <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/blog_posts/2021-07-12_land_use_disadvantag/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Geospatial Data in R</title>
+      <link>/blog_posts/2021-06-11_using_geospatial_dat/</link>
+      <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/blog_posts/2021-06-11_using_geospatial_dat/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

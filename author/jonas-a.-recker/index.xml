@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jonas A. Recker | Stefan Jünger</title>
+    <link>/author/jonas-a.-recker/</link>
+      <atom:link href="/author/jonas-a.-recker/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jonas A. Recker</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 22 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu89af2c7755ddb4ab1d521ed5c464ac1c_29162_512x512_fill_lanczos_center_2.png</url>
+      <title>Jonas A. Recker</title>
+      <link>/author/jonas-a.-recker/</link>
+    </image>
+    
+    <item>
+      <title>Paving the way for data-centric, open science. An example from the social sciences</title>
+      <link>/publication/2015-09-22_paving_the_way_for_d/</link>
+      <pubDate>Tue, 22 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015-09-22_paving_the_way_for_d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Konzept für die Definition signifikanter Eigenschaften von sozialwissenschaftlichen Forschungsdaten</title>
+      <link>/talk/2015-06-19_konzept_fur_die_defi/</link>
+      <pubDate>Fri, 19 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/talk/2015-06-19_konzept_fur_die_defi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A rose is a rose is a rose? Defining significant properties of social sciences research data</title>
+      <link>/talk/2014-06-12_a_rose_is_a_rose_is_/</link>
+      <pubDate>Thu, 12 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>/talk/2014-06-12_a_rose_is_a_rose_is_/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

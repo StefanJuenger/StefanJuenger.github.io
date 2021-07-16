@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Social Sciences | Stefan Jünger</title>
+    <link>/tag/social-sciences/</link>
+      <atom:link href="/tag/social-sciences/index.xml" rel="self" type="application/rss+xml" />
+    <description>Social Sciences</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 07 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu89af2c7755ddb4ab1d521ed5c464ac1c_29162_512x512_fill_lanczos_center_2.png</url>
+      <title>Social Sciences</title>
+      <link>/tag/social-sciences/</link>
+    </image>
+    
+    <item>
+      <title>Green Energy Transactions (GRETA)</title>
+      <link>/projects/greta/</link>
+      <pubDate>Mon, 07 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/projects/greta/</guid>
+      <description>&lt;p&gt;GRETA aims to produce rich, actionable insights to support the design of EU policies that effectively engage citizens in the energy transition. It will solve the generalized lack of understanding of energy citizenship phenomena, its conditions for emergence and exclusion within and beyond energy communities. GRETA’s overall objective is to deepen/advance state-of-the-art knowledge of determinants that influence the emergence of energy citizenship, using a novel combination of scientific methods and models. GRETA will apply this knowledge to provide recommendations for improvements in the policy and legislative framework to enhance energy citizenship’s contribution towards decarbonization goals.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

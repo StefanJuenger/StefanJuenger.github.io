@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wolfgang Zenk-Möltgen | Stefan Jünger</title>
+    <link>/author/wolfgang-zenk-moltgen/</link>
+      <atom:link href="/author/wolfgang-zenk-moltgen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wolfgang Zenk-Möltgen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 24 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu89af2c7755ddb4ab1d521ed5c464ac1c_29162_512x512_fill_lanczos_center_2.png</url>
+      <title>Wolfgang Zenk-Möltgen</title>
+      <link>/author/wolfgang-zenk-moltgen/</link>
+    </image>
+    
+    <item>
+      <title>Documenting Georeferenced Social Science Survey Data:  Limits of Metadata Standards and Possible Solutions</title>
+      <link>/publication/2019-09-24_documenting_georefer/</link>
+      <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-09-24_documenting_georefer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Documenting Georeferenced Social Science Survey Data: Limits and Possible Solutions</title>
+      <link>/talk/2019-07-18_documenting_georefer/</link>
+      <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/talk/2019-07-18_documenting_georefer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Past, Present and Future of Geocoded Survey Data at the GESIS Data Archive</title>
+      <link>/talk/2016-12-06_the_past_present_an/</link>
+      <pubDate>Tue, 06 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>/talk/2016-12-06_the_past_present_an/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Studying the influence of the direct living environment: examples with the georeferenced German General Social Survey 2014</title>
+      <link>/talk/2016-09-14_studying_the_influen/</link>
+      <pubDate>Wed, 14 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>/talk/2016-09-14_studying_the_influen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Georeferenced Survey Data at the GESIS Data Archive</title>
+      <link>/talk/2015-12-02_georeferenced_survey/</link>
+      <pubDate>Wed, 02 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>/talk/2015-12-02_georeferenced_survey/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>4 | Stefan Jünger</title>
+    <link>/publication-type/4/</link>
+      <atom:link href="/publication-type/4/index.xml" rel="self" type="application/rss+xml" />
+    <description>4</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu89af2c7755ddb4ab1d521ed5c464ac1c_29162_512x512_fill_lanczos_center_2.png</url>
+      <title>4</title>
+      <link>/publication-type/4/</link>
+    </image>
+    
+    <item>
+      <title>Data Linking - Linking survey data with geospatial, social media, and sensor data</title>
+      <link>/publication/2021-01-01_data_linking_-_linki/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021-01-01_data_linking_-_linki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Georeferencing the GESIS Panel:  Background, Workflow, and  Analysis Example</title>
+      <link>/publication/2020-08-31_georeferencing_the_g/</link>
+      <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-08-31_georeferencing_the_g/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SoRa Survey. Befragung zu georeferenzierten Daten</title>
+      <link>/publication/2020-01-31_sora_survey._befragu/</link>
+      <pubDate>Fri, 31 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-01-31_sora_survey._befragu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geocoding and Spatial Linking of Survey Data: An Introduction for Social Scientists</title>
+      <link>/publication/2017-01-31_geocoding_and_spatia/</link>
+      <pubDate>Tue, 31 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-01-31_geocoding_and_spatia/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

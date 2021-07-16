@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pascal Siegers | Stefan Jünger</title>
+    <link>/author/pascal-siegers/</link>
+      <atom:link href="/author/pascal-siegers/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pascal Siegers</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 19 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu89af2c7755ddb4ab1d521ed5c464ac1c_29162_512x512_fill_lanczos_center_2.png</url>
+      <title>Pascal Siegers</title>
+      <link>/author/pascal-siegers/</link>
+    </image>
+    
+    <item>
+      <title>Poster: Do Individual Coping Resources Moderate the Effect of Traffic Noise Exposure on Physical and Mental Health? Results from the Georeferenced German General Social Survey 2014</title>
+      <link>/talk/2017-07-19_poster_do_individual/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/talk/2017-07-19_poster_do_individual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geocoding and Spatial Linking of Survey Data: An Introduction for Social Scientists</title>
+      <link>/publication/2017-01-31_geocoding_and_spatia/</link>
+      <pubDate>Tue, 31 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-01-31_geocoding_and_spatia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Studying the influence of the direct living environment: examples with the georeferenced German General Social Survey 2014</title>
+      <link>/talk/2016-09-14_studying_the_influen/</link>
+      <pubDate>Wed, 14 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>/talk/2016-09-14_studying_the_influen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conceptualizing a Spatial Data Infrastructure for the Social Sciences: An Example from Germany</title>
+      <link>/publication/2016-03-15_conceptualizing_a_sp/</link>
+      <pubDate>Tue, 15 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/2016-03-15_conceptualizing_a_sp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regionalisierung durch Georeferenzierung in der Sozialforschung</title>
+      <link>/publication/na_regionalisierung_dur/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/na_regionalisierung_dur/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Stefan Jünger</title>
+    <link>/publication/</link>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu89af2c7755ddb4ab1d521ed5c464ac1c_29162_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>/publication/</link>
+    </image>
+    
+    <item>
+      <title>Data Linking - Linking survey data with geospatial, social media, and sensor data</title>
+      <link>/publication/2021-01-01_data_linking_-_linki/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021-01-01_data_linking_-_linki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Der Halo Effekt in Deutschland - Revisited. Sind Menschen, die in der Nähe von - aber nicht in - ethnisch diversen Nachbarschaften leben besonders xenophob und rassistisch?</title>
+      <link>/publication/2021-01-01_der_halo_effekt_in_d/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021-01-01_der_halo_effekt_in_d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Subjektiv geschätzter und tatsächlicher Ausländeranteil in der Nachbarschaft: Analysen mit dem georeferenzierten ALLBUS 2016 und dem Zensus 2011</title>
+      <link>/publication/2020-12-31_subjektiv_geschatzte/</link>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-12-31_subjektiv_geschatzte/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Georeferencing the GESIS Panel:  Background, Workflow, and  Analysis Example</title>
+      <link>/publication/2020-08-31_georeferencing_the_g/</link>
+      <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-08-31_georeferencing_the_g/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Infrastructure for Spatial Linking of Survey Data</title>
+      <link>/publication/2020-07-02_an_infrastructure_fo/</link>
+      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-07-02_an_infrastructure_fo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SoRa Survey. Befragung zu georeferenzierten Daten</title>
+      <link>/publication/2020-01-31_sora_survey._befragu/</link>
+      <pubDate>Fri, 31 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-01-31_sora_survey._befragu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Die Sozial-Raumwissenschaftliche Forschungsdateninfrastruktur SoRa - Potenziale und Implementierung</title>
+      <link>/publication/2019-12-01_die_sozial-raumwisse/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-12-01_die_sozial-raumwisse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Documenting Georeferenced Social Science Survey Data:  Limits of Metadata Standards and Possible Solutions</title>
+      <link>/publication/2019-09-24_documenting_georefer/</link>
+      <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-09-24_documenting_georefer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Georeferenced Data in Social Science Survey Research. The Method of Spatial Linking and Its Application with the German General Social Survey and the GESIS Panel</title>
+      <link>/publication/2019-08-15_using_georeferenced_/</link>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-08-15_using_georeferenced_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Räumliche Verknüpfung georeferenzierter Umfragedaten mit Geodaten: Chancen, Herausforderungen und praktische Empfehlungen</title>
+      <link>/publication/2019-01-31_raumliche_verknupfun/</link>
+      <pubDate>Thu, 31 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-01-31_raumliche_verknupfun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Der Halo-Effekt in einheimisch-homogenen Nachbarschaften: Steigert die ethnische Diversität angrenzender Nachbarschaften die Xenophobie?</title>
+      <link>/publication/2017-12-31_der_halo-effekt_in_e/</link>
+      <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-12-31_der_halo-effekt_in_e/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geocoding and Spatial Linking of Survey Data: An Introduction for Social Scientists</title>
+      <link>/publication/2017-01-31_geocoding_and_spatia/</link>
+      <pubDate>Tue, 31 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-01-31_geocoding_and_spatia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conceptualizing a Spatial Data Infrastructure for the Social Sciences: An Example from Germany</title>
+      <link>/publication/2016-03-15_conceptualizing_a_sp/</link>
+      <pubDate>Tue, 15 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/2016-03-15_conceptualizing_a_sp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preserving the Essence: Identifying the Significant Properties of Social Science Research Data</title>
+      <link>/publication/2015-12-17_preserving_the_essen/</link>
+      <pubDate>Thu, 17 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015-12-17_preserving_the_essen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paving the way for data-centric, open science. An example from the social sciences</title>
+      <link>/publication/2015-09-22_paving_the_way_for_d/</link>
+      <pubDate>Tue, 22 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015-09-22_paving_the_way_for_d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>datorium: Sharing Platform for Social Science Data: Deposit and Publish Research Data for Better Visibility</title>
+      <link>/publication/2015-08-31_datorium_sharing_pla/</link>
+      <pubDate>Mon, 31 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015-08-31_datorium_sharing_pla/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regionalisierung durch Georeferenzierung in der Sozialforschung</title>
+      <link>/publication/na_regionalisierung_dur/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/na_regionalisierung_dur/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

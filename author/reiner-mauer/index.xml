@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reiner Mauer | Stefan Jünger</title>
+    <link>/author/reiner-mauer/</link>
+      <atom:link href="/author/reiner-mauer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Reiner Mauer</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 19 Jun 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu89af2c7755ddb4ab1d521ed5c464ac1c_29162_512x512_fill_lanczos_center_2.png</url>
+      <title>Reiner Mauer</title>
+      <link>/author/reiner-mauer/</link>
+    </image>
+    
+    <item>
+      <title>Konzept für die Definition signifikanter Eigenschaften von sozialwissenschaftlichen Forschungsdaten</title>
+      <link>/talk/2015-06-19_konzept_fur_die_defi/</link>
+      <pubDate>Fri, 19 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/talk/2015-06-19_konzept_fur_die_defi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

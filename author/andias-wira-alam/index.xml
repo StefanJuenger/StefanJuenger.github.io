@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andias Wira-Alam | Stefan Jünger</title>
+    <link>/author/andias-wira-alam/</link>
+      <atom:link href="/author/andias-wira-alam/index.xml" rel="self" type="application/rss+xml" />
+    <description>Andias Wira-Alam</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 31 Aug 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu89af2c7755ddb4ab1d521ed5c464ac1c_29162_512x512_fill_lanczos_center_2.png</url>
+      <title>Andias Wira-Alam</title>
+      <link>/author/andias-wira-alam/</link>
+    </image>
+    
+    <item>
+      <title>datorium: Sharing Platform for Social Science Data: Deposit and Publish Research Data for Better Visibility</title>
+      <link>/publication/2015-08-31_datorium_sharing_pla/</link>
+      <pubDate>Mon, 31 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015-08-31_datorium_sharing_pla/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

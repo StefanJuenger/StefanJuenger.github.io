@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Denis Cohen | Stefan Jünger</title>
+    <link>/author/denis-cohen/</link>
+      <atom:link href="/author/denis-cohen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Denis Cohen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 11 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu89af2c7755ddb4ab1d521ed5c464ac1c_29162_512x512_fill_lanczos_center_2.png</url>
+      <title>Denis Cohen</title>
+      <link>/author/denis-cohen/</link>
+    </image>
+    
+    <item>
+      <title>Using Geospatial Data in R</title>
+      <link>/blog_posts/2021-06-11_using_geospatial_dat/</link>
+      <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/blog_posts/2021-06-11_using_geospatial_dat/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

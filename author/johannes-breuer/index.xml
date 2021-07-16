@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Johannes Breuer | Stefan Jünger</title>
+    <link>/author/johannes-breuer/</link>
+      <atom:link href="/author/johannes-breuer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Johannes Breuer</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu89af2c7755ddb4ab1d521ed5c464ac1c_29162_512x512_fill_lanczos_center_2.png</url>
+      <title>Johannes Breuer</title>
+      <link>/author/johannes-breuer/</link>
+    </image>
+    
+    <item>
+      <title>Data Linking - Linking survey data with geospatial, social media, and sensor data</title>
+      <link>/publication/2021-01-01_data_linking_-_linki/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/2021-01-01_data_linking_-_linki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction to R for Data Analysis</title>
+      <link>/courses/2020-08-03_introduction_to_r_fo/</link>
+      <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/courses/2020-08-03_introduction_to_r_fo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Wrangling &amp; Exploration with the Tidyverse in R</title>
+      <link>/courses/2019-05-15_data_wrangling__exp/</link>
+      <pubDate>Wed, 15 May 2019 00:00:00 +0000</pubDate>
+      <guid>/courses/2019-05-15_data_wrangling__exp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

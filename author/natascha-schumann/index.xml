@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Natascha Schumann | Stefan Jünger</title>
+    <link>/author/natascha-schumann/</link>
+      <atom:link href="/author/natascha-schumann/index.xml" rel="self" type="application/rss+xml" />
+    <description>Natascha Schumann</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 22 Sep 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu89af2c7755ddb4ab1d521ed5c464ac1c_29162_512x512_fill_lanczos_center_2.png</url>
+      <title>Natascha Schumann</title>
+      <link>/author/natascha-schumann/</link>
+    </image>
+    
+    <item>
+      <title>Paving the way for data-centric, open science. An example from the social sciences</title>
+      <link>/publication/2015-09-22_paving_the_way_for_d/</link>
+      <pubDate>Tue, 22 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015-09-22_paving_the_way_for_d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>datorium: Sharing Platform for Social Science Data: Deposit and Publish Research Data for Better Visibility</title>
+      <link>/publication/2015-08-31_datorium_sharing_pla/</link>
+      <pubDate>Mon, 31 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015-08-31_datorium_sharing_pla/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Konzept für die Definition signifikanter Eigenschaften von sozialwissenschaftlichen Forschungsdaten</title>
+      <link>/talk/2015-06-19_konzept_fur_die_defi/</link>
+      <pubDate>Fri, 19 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/talk/2015-06-19_konzept_fur_die_defi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Poster: datorium. A data sharing service for publication and re-use of social science research data</title>
+      <link>/talk/2014-11-28_poster_datorium._a_d/</link>
+      <pubDate>Fri, 28 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>/talk/2014-11-28_poster_datorium._a_d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Poster: Offen, einfach, sicher: datorium</title>
+      <link>/talk/2014-09-08_poster_offen_einfac/</link>
+      <pubDate>Mon, 08 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>/talk/2014-09-08_poster_offen_einfac/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

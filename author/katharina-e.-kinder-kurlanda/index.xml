@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Katharina E. Kinder-Kurlanda | Stefan Jünger</title>
+    <link>/author/katharina-e.-kinder-kurlanda/</link>
+      <atom:link href="/author/katharina-e.-kinder-kurlanda/index.xml" rel="self" type="application/rss+xml" />
+    <description>Katharina E. Kinder-Kurlanda</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 14 Sep 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu89af2c7755ddb4ab1d521ed5c464ac1c_29162_512x512_fill_lanczos_center_2.png</url>
+      <title>Katharina E. Kinder-Kurlanda</title>
+      <link>/author/katharina-e.-kinder-kurlanda/</link>
+    </image>
+    
+    <item>
+      <title>Studying the influence of the direct living environment: examples with the georeferenced German General Social Survey 2014</title>
+      <link>/talk/2016-09-14_studying_the_influen/</link>
+      <pubDate>Wed, 14 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>/talk/2016-09-14_studying_the_influen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implementing an infrastructure to georeference survey data at the GESIS Data Archive</title>
+      <link>/talk/2016-06-03_implementing_an_infr/</link>
+      <pubDate>Fri, 03 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>/talk/2016-06-03_implementing_an_infr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The analysis potential of georeferenced survey data</title>
+      <link>/talk/2015-12-02_the_analysis_potenti/</link>
+      <pubDate>Wed, 02 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>/talk/2015-12-02_the_analysis_potenti/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

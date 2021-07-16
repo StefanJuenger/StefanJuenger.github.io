@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Björn Schwentker | Stefan Jünger</title>
+    <link>/author/bjorn-schwentker/</link>
+      <atom:link href="/author/bjorn-schwentker/index.xml" rel="self" type="application/rss+xml" />
+    <description>Björn Schwentker</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 09 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu89af2c7755ddb4ab1d521ed5c464ac1c_29162_512x512_fill_lanczos_center_2.png</url>
+      <title>Björn Schwentker</title>
+      <link>/author/bjorn-schwentker/</link>
+    </image>
+    
+    <item>
+      <title>Amtliche Geodaten im öffentlichen Diskurs: Wie schaffen wir bessere Zugangsmöglichkeiten für Wissenschaft und Datenjournalismus? Podiumsdiskussion</title>
+      <link>/talk/2019-09-09_amtliche_geodaten_im/</link>
+      <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/talk/2019-09-09_amtliche_geodaten_im/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

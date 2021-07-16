@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Julia Klinger | Stefan Jünger</title>
+    <link>/author/julia-klinger/</link>
+      <atom:link href="/author/julia-klinger/index.xml" rel="self" type="application/rss+xml" />
+    <description>Julia Klinger</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 31 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu89af2c7755ddb4ab1d521ed5c464ac1c_29162_512x512_fill_lanczos_center_2.png</url>
+      <title>Julia Klinger</title>
+      <link>/author/julia-klinger/</link>
+    </image>
+    
+    <item>
+      <title>Der Halo-Effekt in einheimisch-homogenen Nachbarschaften: Steigert die ethnische Diversität angrenzender Nachbarschaften die Xenophobie?</title>
+      <link>/publication/2017-12-31_der_halo-effekt_in_e/</link>
+      <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-12-31_der_halo-effekt_in_e/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Halo-Effect in Homogeneous Neighborhoods: Does the Ethnic Diversity of Bordering Neighborhoods Increase Xenophobia in Germany?</title>
+      <link>/talk/2017-07-21_the_halo-effect_in_h/</link>
+      <pubDate>Fri, 21 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/talk/2017-07-21_the_halo-effect_in_h/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Code/Syntax: &#39;&#39;Der Halo-Effekt in einheimisch-homogenen Nachbarschaften/ &#39;&#39;The Halo-Effect in Homogeneous Neighborhoods&#39;&#39;</title>
+      <link>/data_code_software/2017-01-01_code_syntax_der_ha/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/data_code_software/2017-01-01_code_syntax_der_ha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regionalisierung durch Georeferenzierung in der Sozialforschung</title>
+      <link>/publication/na_regionalisierung_dur/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/na_regionalisierung_dur/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

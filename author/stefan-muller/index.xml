@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stefan Müller | Stefan Jünger</title>
+    <link>/author/stefan-muller/</link>
+      <atom:link href="/author/stefan-muller/index.xml" rel="self" type="application/rss+xml" />
+    <description>Stefan Müller</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 09 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/author/stefan-muller/avatar_hu8f9a5bf5096f9b4e19d96d2d065769de_26912_270x270_fill_q90_lanczos_center.jpg</url>
+      <title>Stefan Müller</title>
+      <link>/author/stefan-muller/</link>
+    </image>
+    
+    <item>
+      <title>Die Sozial-Raumwissenschaftliche Forschungsdateninfrastruktur SoRa: Potenziale und Implementierung</title>
+      <link>/talk/2019-04-09_die_sozial-raumwisse/</link>
+      <pubDate>Tue, 09 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/talk/2019-04-09_die_sozial-raumwisse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigating social and ethnic inequality by linking survey data to geospatial data</title>
+      <link>/talk/2019-03-11_investigating_social/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/talk/2019-03-11_investigating_social/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Räumliche Verknüpfung georeferenzierter Umfragedaten mit Geodaten: Chancen, Herausforderungen und praktische Empfehlungen</title>
+      <link>/publication/2019-01-31_raumliche_verknupfun/</link>
+      <pubDate>Thu, 31 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-01-31_raumliche_verknupfun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Der Halo-Effekt in einheimisch-homogenen Nachbarschaften: Steigert die ethnische Diversität angrenzender Nachbarschaften die Xenophobie?</title>
+      <link>/publication/2017-12-31_der_halo-effekt_in_e/</link>
+      <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-12-31_der_halo-effekt_in_e/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Halo-Effect in Homogeneous Neighborhoods: Does the Ethnic Diversity of Bordering Neighborhoods Increase Xenophobia in Germany?</title>
+      <link>/talk/2017-07-21_the_halo-effect_in_h/</link>
+      <pubDate>Fri, 21 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/talk/2017-07-21_the_halo-effect_in_h/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Poster: Do Individual Coping Resources Moderate the Effect of Traffic Noise Exposure on Physical and Mental Health? Results from the Georeferenced German General Social Survey 2014</title>
+      <link>/talk/2017-07-19_poster_do_individual/</link>
+      <pubDate>Wed, 19 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/talk/2017-07-19_poster_do_individual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geocoding and Spatial Linking of Survey Data: An Introduction for Social Scientists</title>
+      <link>/publication/2017-01-31_geocoding_and_spatia/</link>
+      <pubDate>Tue, 31 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-01-31_geocoding_and_spatia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Code/Syntax: &#39;&#39;Der Halo-Effekt in einheimisch-homogenen Nachbarschaften/ &#39;&#39;The Halo-Effect in Homogeneous Neighborhoods&#39;&#39;</title>
+      <link>/data_code_software/2017-01-01_code_syntax_der_ha/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/data_code_software/2017-01-01_code_syntax_der_ha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Past, Present and Future of Geocoded Survey Data at the GESIS Data Archive</title>
+      <link>/talk/2016-12-06_the_past_present_an/</link>
+      <pubDate>Tue, 06 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>/talk/2016-12-06_the_past_present_an/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Studying the influence of the direct living environment: examples with the georeferenced German General Social Survey 2014</title>
+      <link>/talk/2016-09-14_studying_the_influen/</link>
+      <pubDate>Wed, 14 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>/talk/2016-09-14_studying_the_influen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beispiel des Zensus 2011</title>
+      <link>/talk/2016-06-15_beispiel_des_zensus_/</link>
+      <pubDate>Wed, 15 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>/talk/2016-06-15_beispiel_des_zensus_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implementing an infrastructure to georeference survey data at the GESIS Data Archive</title>
+      <link>/talk/2016-06-03_implementing_an_infr/</link>
+      <pubDate>Fri, 03 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>/talk/2016-06-03_implementing_an_infr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conceptualizing a Spatial Data Infrastructure for the Social Sciences: : An example from Germany</title>
+      <link>/talk/2016-03-17_conceptualizing_a_sp/</link>
+      <pubDate>Thu, 17 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>/talk/2016-03-17_conceptualizing_a_sp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conceptualizing a Spatial Data Infrastructure for the Social Sciences: An Example from Germany</title>
+      <link>/publication/2016-03-15_conceptualizing_a_sp/</link>
+      <pubDate>Tue, 15 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/2016-03-15_conceptualizing_a_sp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>georefum - An R-Package for processing and linking of spatial data within the GeorefUm project at GESIS</title>
+      <link>/data_code_software/2016-01-01_georefum_-_an_r-pack/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/data_code_software/2016-01-01_georefum_-_an_r-pack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preserving the Essence: Identifying the Significant Properties of Social Science Research Data</title>
+      <link>/publication/2015-12-17_preserving_the_essen/</link>
+      <pubDate>Thu, 17 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015-12-17_preserving_the_essen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Georeferenced Survey Data at the GESIS Data Archive</title>
+      <link>/talk/2015-12-02_georeferenced_survey/</link>
+      <pubDate>Wed, 02 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>/talk/2015-12-02_georeferenced_survey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The analysis potential of georeferenced survey data</title>
+      <link>/talk/2015-12-02_the_analysis_potenti/</link>
+      <pubDate>Wed, 02 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>/talk/2015-12-02_the_analysis_potenti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paving the way for data-centric, open science. An example from the social sciences</title>
+      <link>/publication/2015-09-22_paving_the_way_for_d/</link>
+      <pubDate>Tue, 22 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015-09-22_paving_the_way_for_d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>datorium: Sharing Platform for Social Science Data: Deposit and Publish Research Data for Better Visibility</title>
+      <link>/publication/2015-08-31_datorium_sharing_pla/</link>
+      <pubDate>Mon, 31 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015-08-31_datorium_sharing_pla/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Konzept für die Definition signifikanter Eigenschaften von sozialwissenschaftlichen Forschungsdaten</title>
+      <link>/talk/2015-06-19_konzept_fur_die_defi/</link>
+      <pubDate>Fri, 19 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/talk/2015-06-19_konzept_fur_die_defi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Poster: datorium. A data sharing service for publication and re-use of social science research data</title>
+      <link>/talk/2014-11-28_poster_datorium._a_d/</link>
+      <pubDate>Fri, 28 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>/talk/2014-11-28_poster_datorium._a_d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Poster: Offen, einfach, sicher: datorium</title>
+      <link>/talk/2014-09-08_poster_offen_einfac/</link>
+      <pubDate>Mon, 08 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>/talk/2014-09-08_poster_offen_einfac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>datorium: we make your data feel at home</title>
+      <link>/talk/2014-08-08_datorium_we_make_you/</link>
+      <pubDate>Fri, 08 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>/talk/2014-08-08_datorium_we_make_you/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A rose is a rose is a rose? Defining significant properties of social sciences research data</title>
+      <link>/talk/2014-06-12_a_rose_is_a_rose_is_/</link>
+      <pubDate>Thu, 12 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>/talk/2014-06-12_a_rose_is_a_rose_is_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regionalisierung durch Georeferenzierung in der Sozialforschung</title>
+      <link>/publication/na_regionalisierung_dur/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publication/na_regionalisierung_dur/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

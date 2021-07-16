@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data &amp; Software | Stefan Jünger</title>
+    <link>/data_software/</link>
+      <atom:link href="/data_software/index.xml" rel="self" type="application/rss+xml" />
+    <description>Data &amp; Software</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu89af2c7755ddb4ab1d521ed5c464ac1c_29162_512x512_fill_lanczos_center_2.png</url>
+      <title>Data &amp; Software</title>
+      <link>/data_software/</link>
+    </image>
+    
+    <item>
+      <title>z11 - R Interface to the German Census 2011 Raster Data</title>
+      <link>/data_software/2020-01-01_z11_-_r_interface_to/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/data_software/2020-01-01_z11_-_r_interface_to/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Code/Syntax: &#39;&#39;Der Halo-Effekt in einheimisch-homogenen Nachbarschaften/ &#39;&#39;The Halo-Effect in Homogeneous Neighborhoods&#39;&#39;</title>
+      <link>/data_software/2017-01-01_code_syntax_der_ha/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/data_software/2017-01-01_code_syntax_der_ha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>georefum - An R-Package for processing and linking of spatial data within the GeorefUm project at GESIS</title>
+      <link>/data_software/2016-01-01_georefum_-_an_r-pack/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/data_software/2016-01-01_georefum_-_an_r-pack/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

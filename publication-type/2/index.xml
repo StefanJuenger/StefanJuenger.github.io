@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Stefan Jünger</title>
+    <link>/publication-type/2/</link>
+      <atom:link href="/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 02 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu89af2c7755ddb4ab1d521ed5c464ac1c_29162_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>An Infrastructure for Spatial Linking of Survey Data</title>
+      <link>/publication/2020-07-02_an_infrastructure_fo/</link>
+      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/2020-07-02_an_infrastructure_fo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Documenting Georeferenced Social Science Survey Data:  Limits of Metadata Standards and Possible Solutions</title>
+      <link>/publication/2019-09-24_documenting_georefer/</link>
+      <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/2019-09-24_documenting_georefer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Der Halo-Effekt in einheimisch-homogenen Nachbarschaften: Steigert die ethnische Diversität angrenzender Nachbarschaften die Xenophobie?</title>
+      <link>/publication/2017-12-31_der_halo-effekt_in_e/</link>
+      <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/2017-12-31_der_halo-effekt_in_e/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conceptualizing a Spatial Data Infrastructure for the Social Sciences: An Example from Germany</title>
+      <link>/publication/2016-03-15_conceptualizing_a_sp/</link>
+      <pubDate>Tue, 15 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/2016-03-15_conceptualizing_a_sp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preserving the Essence: Identifying the Significant Properties of Social Science Research Data</title>
+      <link>/publication/2015-12-17_preserving_the_essen/</link>
+      <pubDate>Thu, 17 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015-12-17_preserving_the_essen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paving the way for data-centric, open science. An example from the social sciences</title>
+      <link>/publication/2015-09-22_paving_the_way_for_d/</link>
+      <pubDate>Tue, 22 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015-09-22_paving_the_way_for_d/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

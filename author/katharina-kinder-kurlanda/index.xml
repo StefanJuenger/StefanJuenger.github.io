@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Katharina Kinder-Kurlanda | Stefan Jünger</title>
+    <link>/author/katharina-kinder-kurlanda/</link>
+      <atom:link href="/author/katharina-kinder-kurlanda/index.xml" rel="self" type="application/rss+xml" />
+    <description>Katharina Kinder-Kurlanda</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 15 Mar 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu89af2c7755ddb4ab1d521ed5c464ac1c_29162_512x512_fill_lanczos_center_2.png</url>
+      <title>Katharina Kinder-Kurlanda</title>
+      <link>/author/katharina-kinder-kurlanda/</link>
+    </image>
+    
+    <item>
+      <title>Conceptualizing a Spatial Data Infrastructure for the Social Sciences: An Example from Germany</title>
+      <link>/publication/2016-03-15_conceptualizing_a_sp/</link>
+      <pubDate>Tue, 15 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/2016-03-15_conceptualizing_a_sp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
